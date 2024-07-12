@@ -9,7 +9,7 @@ namespace JKFrame
 #endif
     [DefaultExecutionOrder(-20)]
     /// <summary>
-    /// 框架根节点，第二次提交
+    /// 框架根节点，更改了名字
     /// </summary>
     public class JKFrameRoot : MonoBehaviour
     {
